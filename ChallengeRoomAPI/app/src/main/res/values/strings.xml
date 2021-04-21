@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Challenge Room API</string>
+    <string name="enter_isbn">please enter isbn of book</string>
+    <string name="enter_title">please enter the title of the book</string>
+    <string name="enter_author">plese enter the author of the book</string>
+    <string name="create_new_book">CREATE NEW BOOK</string>
+    <string name="delte_new_book">DELETE</string>
+    <string name="edit_new_book">EDIT</string>
+    <string name="apply_change">APPLY CHANGES</string>
+</resources>
